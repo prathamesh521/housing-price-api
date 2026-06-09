@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ML artifacts
+models/model.pkl
+models/metrics.json
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
